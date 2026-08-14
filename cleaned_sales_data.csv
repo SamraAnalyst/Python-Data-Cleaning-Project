@@ -1,0 +1,107 @@
+Date,Invoice ID,Customer,Product,Qty,Unit Price,Total,City
+1-Jul-26,INV001,John Smith,Keyboard,3.0,25.0,75.0,New York
+2-Jul-26,INV002,Emma Brown,Mouse,5.0,12.0,60.0,Chicago
+3-Jul-26,INV003,Michael Lee,Monitor,2.0,180.0,360.0,Dallas
+4-Jul-26,INV004,Sarah Wilson,Laptop,1.0,850.0,850.0,Houston
+5-Jul-26,INV005,David Clark,Headphones,4.0,35.0,140.0,Miami
+6-Jul-26,INV006,Robert Green,Keyboard,3.0,25.0,75.0,New York
+7-Jul-26,INV007,Emily Davis,Mouse,5.0,12.0,60.0,Chicago
+8-Jul-26,INV008,William Jones,Monitor,2.0,180.0,360.0,Dallas
+9-Jul-26,INV009,Olivia Miller,Laptop,1.0,850.0,850.0,Houston
+10-Jul-26,INV010,James Wilson,Headphones,4.0,35.0,140.0,Miami
+11-Jul-26,INV011,Sophia Taylor,Keyboard,2.0,25.0,50.0,New York
+12-Jul-26,INV012,Logan Thomas,Mouse,6.0,12.0,72.0,Chicago
+13-Jul-26,INV013,Isabella Moore,Monitor,1.0,180.0,180.0,Dallas
+14-Jul-26,INV014,Lucas Jackson,Laptop,2.0,850.0,1700.0,Houston
+15-Jul-26,INV015,Mia White,Headphones,3.0,35.0,105.0,Miami
+16-Jul-26,INV016,Mason Harris,Keyboard,4.0,25.0,100.0,New York
+17-Jul-26,INV017,Charlotte Martin,Mouse,8.0,12.0,96.0,Chicago
+18-Jul-26,INV018,Ethan Thompson,Monitor,3.0,180.0,540.0,Dallas
+19-Jul-26,INV019,Amelia Garcia,Laptop,1.0,850.0,850.0,Houston
+20-Jul-26,INV020,Oliver Martinez,Headphones,5.0,35.0,175.0,Miami
+21-Jul-26,INV021,Evelyn Robinson,Keyboard,3.0,25.0,75.0,New York
+22-Jul-26,INV022,Elijah Clark,Mouse,4.0,12.0,48.0,Chicago
+23-Jul-26,INV023,Harper Rodriguez,Monitor,2.0,180.0,360.0,Dallas
+24-Jul-26,INV024,Liam Lewis,Laptop,1.0,850.0,850.0,Houston
+25-Jul-26,INV025,Ava Lee,Headphones,6.0,35.0,210.0,Miami
+26-Jul-26,INV026,Benjamin Walker,Keyboard,2.0,25.0,50.0,New York
+27-Jul-26,INV027,Avery Hall,Mouse,7.0,12.0,84.0,Chicago
+28-Jul-26,INV028,Lucas Allen,Monitor,1.0,180.0,180.0,Dallas
+29-Jul-26,INV029,Sofia Young,Laptop,2.0,850.0,1700.0,Houston
+30-Jul-26,INV030,Henry King,Headphones,3.0,35.0,105.0,Miami
+31-Jul-26,INV031,Chloe Wright,Keyboard,5.0,25.0,125.0,New York
+1-Aug-26,INV032,Alexander Scott,Mouse,4.0,12.0,48.0,Chicago
+2-Aug-26,INV033,Madison Torrez,Monitor,3.0,180.0,540.0,Dallas
+3-Aug-26,INV034,Owen Nguyen,Laptop,1.0,850.0,850.0,Houston
+4-Aug-26,INV035,Ella Hill,Headphones,4.0,35.0,140.0,Miami
+5-Aug-26,INV036,Daniel Flores,Keyboard,3.0,25.0,75.0,New York
+6-Aug-26,INV037,Scarlett Green,Mouse,9.0,12.0,108.0,Chicago
+7-Aug-26,INV038,Matthew Adams,Monitor,2.0,180.0,360.0,Dallas
+8-Aug-26,INV039,Aria Nelson,Laptop,1.0,850.0,850.0,Houston
+9-Aug-26,INV040,Jackson Baker,Headphones,5.0,35.0,175.0,Miami
+10-Aug-26,INV041,Lily Ramirez,Keyboard,2.0,25.0,50.0,New York
+11-Aug-26,INV042,David Campbell,Mouse,6.0,12.0,72.0,Chicago
+12-Aug-26,INV043,Zoe Mitchell,Monitor,1.0,180.0,180.0,Dallas
+13-Aug-26,INV044,Joseph Roberts,Laptop,2.0,850.0,1700.0,Houston
+14-Aug-26,INV045,Grace Carter,Headphones,3.0,35.0,105.0,Miami
+15-Aug-26,INV046,Samuel Phillips,Keyboard,4.0,25.0,100.0,New York
+16-Aug-26,INV047,Hannah Evans,Mouse,8.0,12.0,96.0,Chicago
+17-Aug-26,INV048,John Turner,Monitor,3.0,180.0,540.0,Dallas
+18-Aug-26,INV049,Elizabeth Torres,Laptop,1.0,850.0,850.0,Houston
+19-Aug-26,INV050,Christopher Parker,Headphones,5.0,35.0,175.0,Miami
+20-Aug-26,INV051,Mila Collins,Keyboard,3.0,25.0,75.0,New York
+21-Aug-26,INV052,Andrew Edwards,Mouse,5.0,12.0,60.0,Chicago
+22-Aug-26,INV053,Stella Stewart,Monitor,2.0,180.0,360.0,Dallas
+23-Aug-26,INV054,Ryan Morris,Laptop,1.0,850.0,850.0,Houston
+24-Aug-26,INV055,Natalie Nguyen,Headphones,4.0,35.0,140.0,Miami
+25-Aug-26,INV056,Nathan Murphy,Keyboard,2.0,25.0,50.0,New York
+26-Aug-26,INV057,Hazel Rivera,Mouse,7.0,12.0,84.0,Chicago
+27-Aug-26,INV058,Christian Cook,Monitor,1.0,180.0,180.0,Dallas
+28-Aug-26,INV059,Violet Rogers,Laptop,2.0,850.0,1700.0,Houston
+29-Aug-26,INV060,Dylan Morgan,Headphones,3.0,35.0,105.0,Miami
+30-Aug-26,INV061,Aurora Peterson,Keyboard,4.0,25.0,100.0,New York
+31-Aug-26,INV062,Aaron Cooper,Mouse,6.0,12.0,72.0,Chicago
+1-Sep-26,INV063,Savannah Reed,Monitor,2.0,180.0,360.0,Dallas
+2-Sep-26,INV064,Jonathan Bailey,Laptop,1.0,850.0,850.0,Houston
+3-Sep-26,INV065,Audrey Bell,Headphones,5.0,35.0,175.0,Miami
+4-Sep-26,INV066,Caleb Gomez,Keyboard,3.0,25.0,75.0,New York
+5-Sep-26,INV067,Brooklyn Kelly,Mouse,8.0,12.0,96.0,Chicago
+6-Sep-26,INV068,Robert Howard,Monitor,3.0,180.0,540.0,Dallas
+7-Sep-26,INV069,Claire Ward,Laptop,1.0,850.0,850.0,Houston
+8-Sep-26,INV070,Miles Cox,Headphones,4.0,35.0,140.0,Miami
+9-Sep-26,INV071,Skylar Diaz,Keyboard,2.0,25.0,50.0,New York
+10-Sep-26,INV072,Eli Richardson,Mouse,6.0,12.0,72.0,Chicago
+11-Sep-26,INV073,Bella Wood,Monitor,1.0,180.0,180.0,Dallas
+12-Sep-26,INV074,White Watson,Laptop,2.0,850.0,1700.0,Houston
+13-Sep-26,INV075,Lucy Brooks,Headphones,3.0,35.0,105.0,Miami
+14-Sep-26,INV076,Thomas Bennett,Keyboard,5.0,25.0,125.0,New York
+15-Sep-26,INV077,Anna Gray,Mouse,4.0,12.0,48.0,Chicago
+16-Sep-26,INV078,Connor James,Monitor,2.0,180.0,360.0,Dallas
+17-Sep-26,INV079,Elena Reyes,Laptop,1.0,850.0,850.0,Houston
+18-Sep-26,INV080,Ezra Cruz,Headphones,5.0,35.0,175.0,Miami
+19-Sep-26,INV081,Nova Hughes,Keyboard,3.0,25.0,75.0,New York
+20-Sep-26,INV082,Landon Price,Mouse,7.0,12.0,84.0,Chicago
+21-Sep-26,INV083,Abigail Myers,Monitor,1.0,180.0,180.0,Dallas
+22-Sep-26,INV084,Adrian Long,Laptop,2.0,850.0,1700.0,Houston
+23-Sep-26,INV085,Isla Foster,Headphones,3.0,35.0,105.0,Miami
+24-Sep-26,INV086,Nolan Sanders,Keyboard,4.0,25.0,100.0,New York
+25-Sep-26,INV087,Eliana Ross,Mouse,6.0,12.0,72.0,Chicago
+26-Sep-26,INV088,Easton Morales,Monitor,2.0,180.0,360.0,Dallas
+27-Sep-26,INV089,Naomi Powell,Laptop,1.0,850.0,850.0,Houston
+28-Sep-26,INV090,Colton Sullivan,Headphones,5.0,35.0,175.0,Miami
+29-Sep-26,INV091,Willow Russell,Keyboard,2.0,25.0,50.0,New York
+30-Sep-26,INV092,Archer Ortiz,Mouse,8.0,12.0,96.0,Chicago
+1-Oct-26,INV093,Ivy Jenkins,Monitor,3.0,180.0,540.0,Dallas
+2-Oct-26,INV094,Jaxon Gutierrez,Laptop,1.0,850.0,850.0,Houston
+3-Oct-26,INV095,Emilia Perry,Headphones,4.0,35.0,140.0,Miami
+4-Oct-26,INV096,Wesley Butler,Keyboard,3.0,25.0,75.0,New York
+5-Oct-26,INV097,Clara Barnes,Mouse,5.0,12.0,60.0,Chicago
+6-Oct-26,INV098,Christian Fisher,Monitor,2.0,180.0,360.0,Dallas
+7-Oct-26,INV099,Madelyn Henderson,Laptop,1.0,850.0,850.0,Houston
+8-Oct-26,INV100,Silas Coleman,Headphones,4.0,35.0,140.0,Miami
+9-Oct-26,INV101,Katherine Simmons,Keyboard,3.0,25.0,75.0,New York
+10-Oct-26,INV102,Jonathan Patterson,Mouse,6.0,12.0,72.0,Chicago
+11-Oct-26,INV103,Alice Jordan,Monitor,1.0,180.0,180.0,Dallas
+12-Oct-26,INV104,Ian Reynolds,Laptop,2.0,850.0,1700.0,Houston
+13-Oct-26,INV105,Elena Hamilton,Headphones,3.0,35.0,105.0,Miami
+,,,,0.0,,,
